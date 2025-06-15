@@ -1,7 +1,9 @@
 package main
 
+import "fmt"
+
 func main() {
 	test := "Hello World"
 
-	fmt.print("Testing string \n", test)
+	fmt.Print("Testing string \n", test)
 }
